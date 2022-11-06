@@ -6,6 +6,6 @@
 
 Значение метрик при оценке моделей:
 
-Retrieval top-100 accuracy: 0.088
+Retrieval top-100 accuracy: 0.683
 
-Ranking RMSE: 1.115
+Ranking RMSE: 1.105
